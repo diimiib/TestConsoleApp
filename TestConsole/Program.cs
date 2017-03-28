@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -9,6 +9,7 @@ namespace TestConsole {
         static void Main(string[] args) {
             Console.WriteLine("Hello Git 2");
             Console.WriteLine("Hello from Dima");
+            Console.WriteLine("Orest Is a nice guy");
         }
     }
 }
